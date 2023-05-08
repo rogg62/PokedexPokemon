@@ -1,0 +1,17 @@
+#AppBar {
+  background: #fff;
+}
+
+#Logo {
+  width: 120px;
+  height: 50px;
+}
+
+.Link{
+    text-decoration: none;
+    color: #242424;
+}
+
+#burguer{
+  color: #000;
+}

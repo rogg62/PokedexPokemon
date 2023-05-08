@@ -1,0 +1,16 @@
+#primeiro{
+    margin: 40px 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+#Card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
